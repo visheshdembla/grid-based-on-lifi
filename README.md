@@ -9,6 +9,8 @@ Implemented as a final year project.
 
 The project is based upon a client - server architecture. The clients are part of the grid and server takes care of administration. The clients can choose to use resources or donate resources to the grid. Server provides all the corresponding functionalities. 
 
+![high_level_architec](https://github.com/vishesh1042/Grid-Based-On-LiFi/blob/master/GridHigh.jpg)
+
 ## Client as DONOR:
 
 Client, when a donor, can share
@@ -36,6 +38,8 @@ Client, when a donor, can share
  The server accepts new client connections and new task requests. Server dynamically calculates the appropriate donor to use resource from when a task is to be performed. Server is the actual entity that contains all the logic corresponding to  resource and task co-ordination as well as client management.
 
 ## Li-Fi :
+
+![high_level_architec](https://github.com/vishesh1042/Grid-Based-On-LiFi/blob/master/Li-Fi%20Architectural%20Design%20(1).jpg)
 
 Li-Fi circuit is based upon RS - 232 Serial Communication Protocol. Hardware used for the project was FTDI FT 232 Serial Communication Chips.
 The Li-Fi cirucit is capable of communicating at a maximum of 9600 baud/sec and uses On - Off Keying modulation technique to perform the communication.
