@@ -26,7 +26,7 @@ Client, when a donor, can share
  
  While acting as a resource consumer, client can:
  
- 1. Store files on the grid, without having to worry about the location of the file
+ 1. Store files on the grid, without having to worry about the location of the file.
  
  2. Execute JAVA codes remotely on the grid.
  
