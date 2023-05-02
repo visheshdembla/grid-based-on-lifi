@@ -1,5 +1,5 @@
 # Grid-Based-On-LiFi
-Implementation of a Virtual Grid Enabled Via Li-Fi Communication based on RS-232
+Implementation of a Virtual Grid enabled via a Li-Fi communication link based on RS-232
 
 
 Implemented as a final year project.
